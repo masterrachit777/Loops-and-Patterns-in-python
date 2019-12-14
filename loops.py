@@ -1,4 +1,4 @@
-'''for i in range(10):
+for i in range(10):
     print(i)
 n = int(input("Enter a number: "))
 for i in range(1,11):
@@ -11,7 +11,7 @@ fac = 1
 while a > 0:
     fac *= a
     a -= 1
-print('factorial of', temp, 'is: ', fac)'''
+print('factorial of', temp, 'is: ', fac)
 
 
 a = 0
